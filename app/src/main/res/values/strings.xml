@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Soinner</string>
+
+    <string-array name="days">
+        <item>Satar day</item>
+        <item>Sun day</item>
+        <item>Mon day</item>
+        <item>Tues day</item>
+        <item>Wednes day</item>
+        <item>Thurse day</item>
+        <item>Fri day</item>
+    </string-array>
+</resources>
